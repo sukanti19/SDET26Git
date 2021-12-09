@@ -6,5 +6,7 @@ public class Compractice {
 	@Test
 	public void CompracticeDemo() {
 		System.out.println("Demo Script");
+		System.out.println("Demo Script after change");
+		System.out.println("Demo Script after change1");
 	}
 }
