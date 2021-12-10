@@ -10,6 +10,8 @@ public class Demoprogram {
 		System.out.println("3st statement");
 		System.out.println("3st statement");
 		System.out.println("4tt statement");
+		System.out.println("5th statement");
+		System.out.println("6th statement");
 
 
 	}
