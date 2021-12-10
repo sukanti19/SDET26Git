@@ -13,6 +13,7 @@ public class Demoprogram {
 		System.out.println("5th statement");
 		System.out.println("6th statement");
 
+		System.out.println("7th statement");
 
 	}
 }
