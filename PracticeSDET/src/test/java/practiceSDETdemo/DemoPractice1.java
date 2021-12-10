@@ -7,5 +7,7 @@ public class DemoPractice1 {
 	public void Demo1()
 {
 		System.out.println("print");
+		System.out.println("print");
+
 }
 }
