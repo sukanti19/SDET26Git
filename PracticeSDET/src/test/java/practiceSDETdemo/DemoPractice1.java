@@ -8,6 +8,7 @@ public class DemoPractice1 {
 {
 		System.out.println("print");
 		System.out.println("print");
+		System.out.println("print");
 
 }
 }
