@@ -38,7 +38,7 @@
   </profile>
   
   <profile>
-  <id>demo</id>
+  <id>demoT</id>
   <build>
   <pluginManagement>
   <plugins>
