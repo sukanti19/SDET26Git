@@ -18,7 +18,7 @@
   <profiles>
   
   <profile>
-  <id>demo1</id>
+  <id>test1</id>
   <build>
   <pluginManagement>
   <plugins>
